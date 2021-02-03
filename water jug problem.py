@@ -4,7 +4,7 @@ Z=int(input("Enter the value for jug:"))
 x=0
 y=0
 
-while 1<2:
+while Z<X<Y:
     print(x,y)
 
     if x==0:
